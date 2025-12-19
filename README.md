@@ -1,2 +1,2 @@
-# mini-database-java
-Java key-value store implementation
+# Mini Database (Java)
+Building key-value store to learn Java & DSA
